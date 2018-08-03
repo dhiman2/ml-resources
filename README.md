@@ -6,3 +6,5 @@ Sample codes and Demos for Machine Learning use cases
 * [Bike Sharing demand prediction](https://github.com/dhiman2/ml-resources/blob/master/bike_sharing_demand.ipynb)
 * [Customer Segmentation](https://github.com/dhiman2/ml-resources/blob/master/Customer%20Segmentation.ipynb)
 * [Cross Selling](https://github.com/dhiman2/ml-resources/blob/master/Cross%20Selling.ipynb)
+* [Bayesian linear regression](https://github.com/dhiman2/ml-resources/blob/master/bayesian-linear-regression.ipynb)
+* [Bayesian hierarchical models](https://github.com/dhiman2/ml-resources/blob/master/bayesian-hierarchical-models.ipynb) 
