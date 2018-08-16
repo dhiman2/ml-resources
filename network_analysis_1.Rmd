@@ -9,7 +9,7 @@ library(igraph)
 ```
 
 ## Networks in igraph
-[Source](http://kateto.net/ruworkshop#1_introduction_to_r)
+[Source](http://kateto.net/ruworkshop)
 
 ### Create networks
 
@@ -264,3 +264,4 @@ plot(rn %du% tr, vertex.size=10, vertex.label=NA)
 ```
 
 ## Reading network data
+
