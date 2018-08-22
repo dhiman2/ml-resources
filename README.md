@@ -11,3 +11,8 @@ Sample codes and Demos for Machine Learning use cases
 * [Bayesian A/B testing](https://github.com/dhiman2/ml-resources/blob/master/bayesian_ab_testing.ipynb)
 * [Time series analysis](https://github.com/dhiman2/ml-resources/blob/master/time_series_analysis.ipynb)
 * [California Wildfires](https://github.com/dhiman2/ml-resources/blob/master/california_wildfires.R)
+* [Display calendar with `python`](https://github.com/dhiman2/ml-resources/blob/master/display_calendar_with_python.ipynb)
+* [Anonymize data with pandas](https://github.com/dhiman2/ml-resources/blob/master/anonymize_data_with_pandas.ipynb)
+* [Exploring correlations with `corr`](https://github.com/dhiman2/ml-resources/blob/master/correlations_with_corr.Rmd)
+* [Forecasting avocado prices](https://github.com/dhiman2/ml-resources/blob/master/forecasting_avocado_prices.ipynb)
+* 
