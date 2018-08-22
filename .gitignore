@@ -37,3 +37,4 @@ rsconnect/
 
 #**/data/
 **/.ipynb_checkpoints/
+**/_pycache_/
