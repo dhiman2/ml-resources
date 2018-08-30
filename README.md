@@ -15,4 +15,6 @@ Sample codes and Demos for Machine Learning use cases
 * [Anonymize data with pandas](https://github.com/dhiman2/ml-resources/blob/master/anonymize_data_with_pandas.ipynb)
 * [Exploring correlations with `corr`](https://github.com/dhiman2/ml-resources/blob/master/correlations_with_corr.Rmd)
 * [Forecasting avocado prices](https://github.com/dhiman2/ml-resources/blob/master/forecasting_avocado_prices.ipynb)
-* 
+* [t-SNE](https://github.com/dhiman2/ml-resources/blob/master/Manifold_learning_and_t-SNE.ipynb)
+* [Classifying Consumer Finance Complaints](https://github.com/dhiman2/ml-resources/blob/master/Multi-Class%20Text%20Classification.ipynb)
+* [Using docker with python](https://github.com/dhiman2/ml-resources/blob/master/docker_with_python.md)
